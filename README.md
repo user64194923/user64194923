@@ -21,8 +21,8 @@ Currently exploring the intersection of **art, interactivity, and algorithms** u
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=user64194923&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user64194923&layout=compact&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=user64194923&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user64194923&layout=compact&theme=dark)
 
 ---
 
