@@ -9,12 +9,6 @@ Currently exploring the intersection of **art, interactivity, and algorithms** u
 [[LinkedIn](https://www.linkedin.com/in/timofei-ksenofontov/)] • [[Portfolio](https://p3trol.itch.io/)] • [[Email](timofeiksenofont@gmail.com)]
 
 ---
-###
-
-<img src="https://raw.githubusercontent.com/user64194923/user64194923/output/snake.svg" alt="Snake animation" />
-
-###
----
 
 ## 🛠️ Tech Stack
 
