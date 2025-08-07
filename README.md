@@ -14,8 +14,13 @@ Currently exploring the intersection of **art, interactivity, and algorithms** u
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ---
 
@@ -34,7 +39,7 @@ Currently exploring the intersection of **art, interactivity, and algorithms** u
 
 <p align="center">
   <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol.gif" width="400" alt="Tree Growing Preview 1">
-  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol.gif" width="400" alt="Tree Growing Preview 2">
+  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol_2.gif" width="400" alt="Tree Growing Preview 2">
 </p>
 
 
