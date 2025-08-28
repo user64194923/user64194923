@@ -37,6 +37,10 @@ Currently exploring the intersection of **art, interactivity, and algorithms** u
 **Procedural Tree Generation Game**  
 *Create, evolve, and explore endlessly unique trees and plants.*
 
+
+<p align="center">
+  <img src="https://github.com/user64194923/PhyloGenesis/blob/main/media/PhyloGenesis_Prewiew_1.png" width="1200" alt="Tree Growing Preview 1">
+</p>
 <p align="center">
   <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol.gif" width="400" alt="Tree Growing Preview 1">
   <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol_2.gif" width="400" alt="Tree Growing Preview 2">
