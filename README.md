@@ -21,11 +21,6 @@ I’m a software developer passionate about building immersive experiences and p
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
----
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=user64194923&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user64194923&layout=compact&theme=dark)
 
 ---
