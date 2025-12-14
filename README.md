@@ -33,8 +33,8 @@ I’m a software developer passionate about building immersive experiences and p
 
 
 <p align="center">
-  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol.gif" width="500" alt="Tree Growing Preview 1">
-  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol_2.gif" width="500" alt="Tree Growing Preview 2">
+  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol.gif" width="400" alt="Tree Growing Preview 1">
+  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol_2.gif" width="400" alt="Tree Growing Preview 2">
   
 </p>
 <p align="center">
