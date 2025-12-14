@@ -38,7 +38,7 @@ I’m a software developer passionate about building immersive experiences and p
   
 </p>
 <p align="center">
-  <img src="https://github.com/user64194923/PhyloGenesis/blob/main/media/PhyloGenesis_Prewiew_1.png" width="1000" alt="Tree Growing Preview 1">
+  <img src="https://github.com/user64194923/PhyloGenesis/blob/main/media/PhyloGenesis_Prewiew_1.png" width="800" alt="Tree Growing Preview 1">
 </p>
 
 
