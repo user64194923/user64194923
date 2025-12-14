@@ -33,11 +33,12 @@ I’m a software developer passionate about building immersive experiences and p
 
 
 <p align="center">
-  <img src="https://github.com/user64194923/PhyloGenesis/blob/main/media/PhyloGenesis_Prewiew_1.png" width="1200" alt="Tree Growing Preview 1">
+  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol.gif" width="500" alt="Tree Growing Preview 1">
+  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol_2.gif" width="500" alt="Tree Growing Preview 2">
+  
 </p>
 <p align="center">
-  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol.gif" width="400" alt="Tree Growing Preview 1">
-  <img src="https://github.com/user64194923/PhyloGenesis/raw/main/media/tree_procedural_generation_petrol_2.gif" width="400" alt="Tree Growing Preview 2">
+  <img src="https://github.com/user64194923/PhyloGenesis/blob/main/media/PhyloGenesis_Prewiew_1.png" width="1000" alt="Tree Growing Preview 1">
 </p>
 
 
@@ -54,7 +55,17 @@ Features:
 ---
 
 ### Concrete Veil
-[![Game Icon](https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png)](https://p3trol.itch.io/concrete-veil)
+
+<p align="center">
+  <a href="https://p3trol.itch.io/concrete-veil" target="_blank">
+    <img
+      src="https://github.com/user64194923/FPS/blob/main/media/cv%20thumbnail.png"
+      width="1500"
+      alt="Concrete Veil Preview"
+    />
+  </a>
+</p>
+
 
 **Fast-paced FPS with immersive physics-driven environments**
 
