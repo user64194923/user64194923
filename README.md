@@ -1,7 +1,6 @@
 # Hi, I'm Petrol
 
-I’m a game developer passionate about building immersive experiences and procedural worlds.  
-Currently exploring the intersection of **art, interactivity, and algorithms** using **Unity** and **C#**.
+I’m a software developer passionate about building immersive experiences and procedural worlds.
 
 ---
 
@@ -75,12 +74,6 @@ Highlights:
 
 [Play on Itch.io](https://p3trol.itch.io/concrete-veil)
 
----
-
-## What I’m Working On
-
-- Enhancing PhyloGenesis with tree evolution and VR interaction
-- Combining procedural algorithms with handcrafted design for more dynamic gameplay
 
 ---
 
