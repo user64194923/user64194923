@@ -99,7 +99,7 @@ Features:
 <p align="center">
   <a href="https://p3trol.itch.io/concrete-veil" target="_blank">
     <img
-      src="https://github.com/user64194923/FPS/blob/main/media/cv%20thumbnail.png"
+      src="https://github.com/user64194923/media/blob/main/cv_media/cv%20thumbnail.png"
       width="1500"
       alt="Concrete Veil Preview"
     />
