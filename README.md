@@ -40,7 +40,7 @@ I’m a software developer passionate about building immersive experiences and p
 
 ### JoyBoxPlatform – ASP.NET Core Web Platform
 
-JoyBoxPlatform is a full-stack WebGL gaming platform built with ASP.NET Core 8 and SQL Server, designed to allow developers to publish games and users to discover and play them online.
+JoyBoxPlatform is a full-stack platform built with ASP.NET Core 8 and SQL Server, designed to allow developers to publish games and users to discover and play them online.
 
 ---
 
